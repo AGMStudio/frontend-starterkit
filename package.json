@@ -1,0 +1,43 @@
+{
+  "name": "frontend-starterkit",
+  "version": "1.0.0",
+  "description": "Frontend Starter Kit",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGMStudio/frontend-starterkit.git"
+  },
+  "author": "Adrián Guerra Marrero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AGMStudio/frontend-starterkit/issues"
+  },
+  "homepage": "https://github.com/AGMStudio/frontend-starterkit#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.1",
+    "gulp-changed": "^1.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-pleeease": "^2.0.2",
+    "gulp-prettify": "^0.5.0",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-themes": "^2.0.1",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.4",
+    "merge-stream": "^1.0.1",
+    "path": "^0.12.7",
+    "run-sequence": "^1.2.2",
+    "yargs": "^6.6.0"
+  }
+}
